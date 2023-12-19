@@ -1,0 +1,28 @@
+body {
+  font-family: 'Merienda', cursive;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #f5ccf3;
+}
+
+#about {
+  background-color: #fce6fa;
+}
+
+#hobby {
+  background-color: #f5ccf3;
+}
+
+#gallery {
+  background-color: #fce6fa;
+}
+
+#contact {
+  background-color: #f5ccf3;
+}
+
+section {
+  padding-top: 6rem;
+}
